@@ -6,6 +6,6 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
-
+  
 My name is Perrine Clynckemaillie, I am twenty years old and I study biology at UMons. I am currently in the second year of my bachelor. During my studies I was given the opportunity to better my English. I am in the class of Ms Van Lancker. In the future, I would like to work within the field of animal biology. 
+
