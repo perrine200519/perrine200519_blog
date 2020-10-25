@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Fraction of money earmarked for COVID-19 recovery could boost climate efforts
   
-
+  
 Story Source of the article :
   
 Materials provided by [Imperial College London](https://www.imperial.ac.uk/). Original written by Hayley Dunning.
