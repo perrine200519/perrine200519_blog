@@ -11,4 +11,4 @@ listing: posts
   
   
 # Home Page
-Hi this is my blog
+Hi this is my blog and on this blog, you will find articles on global warming.
