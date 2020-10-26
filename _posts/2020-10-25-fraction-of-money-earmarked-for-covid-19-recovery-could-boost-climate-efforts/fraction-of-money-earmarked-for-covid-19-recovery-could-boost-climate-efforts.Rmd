@@ -2,6 +2,7 @@
 title: "Fraction of money earmarked for COVID-19 recovery could boost climate efforts"
 description: |
    Global stimulus plans for economic recovery after the pandemic could easily cover climate-friendly policies, suggests a new study.
+   
 author:
   - name: Perrine Clynckemaillie
 date: "`r Sys.Date()`"
@@ -18,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Fraction of money earmarked for COVID-19 recovery could boost climate efforts
   
   
-Story Source of the article :
+Story Source of the article : 
   
 Materials provided by [Imperial College London](https://www.imperial.ac.uk/). Original written by Hayley Dunning.
 
@@ -27,7 +28,7 @@ Materials provided by [Imperial College London](https://www.imperial.ac.uk/). Or
   
 date of the publication: October 16, 2020
   
-word count: 775 words 
+word count: 775 words  
 
 ## Vocabulary
 
