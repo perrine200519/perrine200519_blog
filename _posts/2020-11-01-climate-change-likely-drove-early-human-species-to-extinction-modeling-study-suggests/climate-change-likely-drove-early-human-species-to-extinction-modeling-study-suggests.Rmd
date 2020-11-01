@@ -1,0 +1,53 @@
+---
+title: "Climate change likely drove early human species to extinction, modeling study suggests"
+description: |
+  Of the six or more different species of early humans, all belonging to the genus Homo, only we Homo sapiens have managed to survive. Now, a study combining climate modeling and the fossil record in search of clues to what led to all those earlier extinctions suggests that climate change -- the inability to adapt to either warming or cooling temperatures -- likely played a major role in sealing their fate.
+author:
+  - name: Perrine Clynckemaillie
+    url: {}
+date: 11-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Climate change likely drove early human species to extinction, modeling study suggests
+  
+  
+Story Source of the article : 
+  
+Materials provided by [Cell Press](https://www.cell.com/about)
+
+## Source of the article
+[source of the article](https://www.sciencedaily.com/releases/2020/10/201015111729.htm)
+  
+date of the publication: October 15, 2020
+  
+word count: 511 words  
+
+## Vocabulary
+
+| word from the text | synonym/definition in English                                                                                                                                                                                                                                                                           | French translation |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| species            | any of the taxonomic groups into which a genus is divided,  the members of which are capable of interbreeding: often  containing subspecies, varieties, or races.  A species is designated in italics by the genus name followed  by the specific name, for example Felis domesticus (the domestic cat) | espèces            |
+| climate            | the long-term prevalent weather conditions of an area,  determined by latitude, position relative to oceans or continents, altitude, etc.                                                                                                                                                               | climat             |
+| fossil             | a relic, remnant, or representation of a plant or animal that existed  in a past geological age, occurring in the form of mineralized  bones, shells, etc., as casts, impressions, and moulds, and as  frozen perfectly preserved organisms                                                             | fossiles           |
+| innovations        | something newly introduced, such as a new method or device                                                                                                                                                                                                                                              | innovations        |
+| stone              | the hard compact nonmetallic material of which rocks are made                                                                                                                                                                                                                                           | pierre             |
+| spear              | a weapon consisting of a long shaft with a sharp pointed  end of metal, stone, or wood that may be thrown or thrust                                                                                                                                                                                     | lance              |
+| niche              | a position particularly suitable for the person occupying it                                                                                                                                                                                                                                            | niche              |
+
+
+## Analysis 
+
+| Researchers?                        | Pasquale Raia from Federico II University, Naples, Italy, Alessandro Mondanaro, Marina Melchionna, Mirko Di Febbraro, Josè A.F. Diniz-Filho, Thiago F. Rangel, Philip B. Holden, Francesco Carotenuto, Neil R. Edwards, Matheus S. Lima-Ribeiro, Antonio Profico, Luigi Maiorano, Silvia Castiglione, Carmela Serio and Lorenzo Rook |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| published in ? when (if mentioned)? | it was published in Dayliscience on October 15, 2020                                                                                                                                                                                                                                                                                 |
+| general topic                       | the effect of global warming on our different ancestors of the Homo genus                                                                                                                                                                                                                                                            |
+| procedure/what was examined         | they looked at the disappearance causes of the different types of Homos                                                                                                                                                                                                                                                              |
+| conlusions/discovery                | if no effort is made to save the planet and to reduce global warming, the climate crisis could lead to the extinction of Homo sapiens. Climate crises appeared indeed to have played a role in the extinction of H. erectus, H. heidelbergensis, and H. neanderthalensis.                                                            |
+| remainig question                   | /                                                                                                                                                                                                                                                                                                                                    |
