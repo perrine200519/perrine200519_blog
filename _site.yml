@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/perrine200519/perrine200519_blog.git
-base_url: http://perrine200519.github.io/perrine200519_blog/
+base_url: http://perrine200519.github.io/perrine200519_blog/ 
 collections:
     posts:
       share: [twitter, linkedin, facebook]
