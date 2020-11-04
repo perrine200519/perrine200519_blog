@@ -15,7 +15,7 @@ base_url: http://perrine200519.github.io/perrine200519_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      disqus:
+      disqus: Environmental studies Blog
         shortname: environmental-studies-blog-2
         hidden: false
 output:
