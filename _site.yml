@@ -17,7 +17,7 @@ collections:
       share: [twitter, linkedin, facebook]
       disqus: 
         shortname: environmental-studies-blog-2
-        hidden: false
+        
 output:
   distill::distill_article:
     css: style.css
