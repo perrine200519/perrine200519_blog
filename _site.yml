@@ -15,7 +15,7 @@ base_url: http://perrine200519.github.io/perrine200519_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      disqus: 
+      disqus: envistublog
 output:
   distill::distill_article:
     css: style.css
