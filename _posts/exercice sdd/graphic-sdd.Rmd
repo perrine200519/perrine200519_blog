@@ -1,13 +1,13 @@
 ---
-title: "graphic sdd"
+title: "Data Science Graph: Zooplankton analysis"
 description: |
-  A short description of the post.
+  This post is dedicated to the analysis of the feret of zooplanktons compared to their area.
 author:
   - name: Perrine Clynckemaillie
     url: {}
 date: 11-14-2020
 categories: 
-  - " Data Sciences I : exercice sdd"
+  - "Data Sciences I"
 output:
   distill::distill_article:
     self_contained: false
@@ -17,12 +17,12 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Le zooplancton est un animal qui est composé d'organismes marins, ce sont des animaux de petite taille pouvant être herbivores ou carnivores, il est important pour les animaux car c'est une réserve de nourriture.
+Zooplankton is an animal that is composed of marine organisms, they are small animals that can be herbivorous or carnivorous, it is important for the animals because it is a food reserve.
 
 ```{r}
 SciViews:: R
 data <- read("zooplankton", package = "data.io")
-chart(zooplankton, area ~ feret ) +
+chart(data, area ~ feret ) +
   geom_point()
 ```
 

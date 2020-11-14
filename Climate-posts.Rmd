@@ -1,0 +1,14 @@
+---
+title: "Climate posts:"
+site: distill::distill_website
+listing:
+  posts:
+    - 2020-10-25-fraction-of-money-earmarked-for-covid-19-recovery-could-boost-climate-efforts
+    - 2020-11-01-climate-change-likely-drove-early-human-species-to-extinction-modeling-study-suggests
+    - 2020-11-01-shifts-in-flowering-phases-of-plants-due-to-reduced-insect-density
+---
+
+```{r, echo = FALSE, eval = FALSE}
+#distill::create_post("my post") # use this fonction to create a new post
+```
+

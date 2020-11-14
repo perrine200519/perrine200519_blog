@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/exercice sdd/",
+    "title": "Data Science Graph: Zooplankton analysis",
+    "description": "This post is dedicated to the analysis of the feret of zooplanktons compared to their area.",
+    "author": [
+      {
+        "name": "Perrine Clynckemaillie",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-14",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": "posts/exercice sdd/graphic-sdd_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-11-14T16:15:03+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/2020-11-01-shifts-in-flowering-phases-of-plants-due-to-reduced-insect-density/",
     "title": "Article 3 : Shifts in flowering phases of plants due to reduced insect density",
     "description": "A research group has discovered that insects have a decisive influence on the biodiversity and flowering phases of plants. If there is a lack of insects where the plants are growing, their flowering behavior changes. This can result in the lifecycles of the insects and the flowering periods of the plants no longer coinciding. If the insects seek nectar, some plants will no longer be pollinated.",
@@ -58,35 +77,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-11-09T14:18:06+01:00"
-  },
-  {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:25:50+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
   },
   {
     "path": "posts/meal/",

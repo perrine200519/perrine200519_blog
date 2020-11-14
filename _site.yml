@@ -5,12 +5,16 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
     - text: "About Me"
-      href: "posts/about/index.html":
-      text: "exercice sdd"
-      href: "exercice/sdd/index.html"
+      href: "posts/about/index.html"
+    - text: "Sections"
+      menu:
+        - text: "English log"
+          href: "posts/meal/index.html"
+        - text: "Climate Change"
+          href: Climate-posts.html
+        - text: "Data Science Exercise"
+          href: Sdd-posts.html
     - icon: fab fa-github
       href: https://github.com/perrine200519/perrine200519_blog.git
 base_url: https://perrine200519.github.io/perrine200519_blog/ 

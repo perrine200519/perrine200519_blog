@@ -34,7 +34,7 @@ word count: 775 words
 
 | word from the text          | synonym/definition in English                                                                                                                              | French translation          |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| pre-industrial tepmperature | /                                                                                                                                                          | température préindustrielle |
+| pre-industrial temperature  | /                                                                                                                                                          | température préindustrielle |
 | fossils fuels               | any naturally occurring carbon or hydrocarbon fuel,  such as coal, petroleum, peat, and natural gas,  formed by the decomposition of prehistoric organisms | combustibles fossiles       |
 | renawable source of energy  | Renewable energy, often referred to as clean energy,  comes from natural sources or processes that are constantly replenished.                             | énergie renouvelable        |
 | energy solar                | energy obtained from solar power                                                                                                                           | énergie solaire             |

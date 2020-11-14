@@ -1,14 +1,11 @@
 ---
-title: "Recent posts:"
+title: "Data science posts:"
 site: distill::distill_website
-listing: posts
+listing:
+  posts:
+    - exercice sdd
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
-.  
-  
-# Home Page
-Hi this is my blog and on this blog, you will find articles about global warming. 
- 
