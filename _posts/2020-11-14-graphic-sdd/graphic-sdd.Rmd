@@ -1,0 +1,29 @@
+---
+title: "graphic sdd"
+description: |
+  A short description of the post.
+author:
+  - name: Perrine Clynckemaillie
+    url: {}
+date: 11-14-2020
+categories: 
+  - " Data Sciences I : exercice sdd"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Le zooplancton est un animal qui est composé d'organismes marins, ce sont des animaux de petite taille pouvant être herbivores ou carnivores, il est important pour les animaux car c'est une réserve de nourriture.
+
+```{r}
+SciViews:: R
+data <- read("zooplankton", package = "data.io")
+chart(zooplankton, area ~ feret ) +
+  geom_point()
+```
+
+we notice that if feret increases, it is not for this reason that the area also increases, so there is not a linear relationship. There are some points which are extreme. 
