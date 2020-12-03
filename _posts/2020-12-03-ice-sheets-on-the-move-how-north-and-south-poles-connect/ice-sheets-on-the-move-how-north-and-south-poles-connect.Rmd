@@ -59,10 +59,10 @@ word count: 631 words
 
 ## Analysis
 
-|  Researchers                        | Gomez, N., Weber, M.E., Clark, P.U. et al. Antarctic ice dynamics amplified by Northern Hemisphere sea-level forcing                                                                            |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Published in? when (if mentioned)   | In dailyscience  and published on November 25, 2020                                                                                                                                             |
-| general topic                       | * The movement of ice sheets in the two hemispheres  * Those movements are induced by sea water level changes                                                                                   |
-| Procedure/what was examined         | * Global warming leads to the water level change of seas and oceans  * The water level influences ice sheets in both hemispheres  * ice sheets of the two Poles influence each other            |
-| conclusions/discovery               | * There is an interconnection in the earth system * This interconnection translates into changes in other parts of the planet  * Onecan see a withdrawal of ice sheets following global warming |
-| remaining questions                 | /                                                                                                                                                                                               |
+|  Researchers                        | Gomez, N., Weber, M.E., Clark, P.U. et al. Antarctic ice dynamics amplified by Northern Hemisphere sea-level forcing                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in? when (if mentioned)   | In dailyscience  and published on November 25, 2020                                                                                                                                                                 |
+| general topic                       | The movement of ice sheets in the two hemispheres                  Those movements are induced by sea water level changes                                                                                           |
+| Procedure/what was examined         | Global warming leads to the water level change of seas and oceans         The water level influences ice sheets in both hemispheres                ice sheets of the two Poles influence each other                 |
+| conclusions/discovery               | There is an interconnection in the earth system         This interconnection translates into changes in other parts of the planet  One can see a withdrawal of ice sheets following global warmi                    |
+| remaining questions                 | /                                                                                                                                                                                                                   |
