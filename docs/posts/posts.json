@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-12-03-ice-sheets-on-the-move-how-north-and-south-poles-connect/",
+    "title": "Article 4 : Ice sheets on the move: How north and south poles connect",
+    "description": "Over the past 40,000 years, ice sheets thousands of kilometers apart have influenced one another through sea level changes, according to new research. New modelling of ice sheet changes during the most recent glacial cycle demonstrates, for the first time, that during this period, changes in the Antarctic ice sheet were driven by the melting ice sheets in the Northern Hemisphere.",
+    "author": [
+      {
+        "name": "Perrine Clynckemaillie",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-03T11:19:36+01:00"
+  },
+  {
     "path": "posts/exercice sdd/",
     "title": "Data Science Graph: Zooplankton analysis",
     "description": "This post is dedicated to the analysis of the feret of zooplanktons compared to their area.",

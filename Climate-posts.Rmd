@@ -6,6 +6,7 @@ listing:
     - 2020-10-25-fraction-of-money-earmarked-for-covid-19-recovery-could-boost-climate-efforts
     - 2020-11-01-climate-change-likely-drove-early-human-species-to-extinction-modeling-study-suggests
     - 2020-11-01-shifts-in-flowering-phases-of-plants-due-to-reduced-insect-density
+    - 2020-12-03-ice-sheets-on-the-move-how-north-and-south-poles-connect
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
