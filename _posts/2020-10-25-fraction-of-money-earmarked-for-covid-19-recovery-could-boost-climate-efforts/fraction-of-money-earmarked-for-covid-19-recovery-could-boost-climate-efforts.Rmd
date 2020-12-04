@@ -1,7 +1,7 @@
 ---
 title: "Article 1 :Fraction of money earmarked for COVID-19 recovery could boost climate efforts"
 description: |
-   Global stimulus plans for economic recovery after the pandemic could easily cover climate-friendly policies, suggests a new study.
+   the money invested for the pandemic could be used differently for the crisis against global warming, this investment could have a beneficial effect not only for the climate but also for the economy as it could create jobs 
    
 author:
   - name: Perrine Clynckemaillie

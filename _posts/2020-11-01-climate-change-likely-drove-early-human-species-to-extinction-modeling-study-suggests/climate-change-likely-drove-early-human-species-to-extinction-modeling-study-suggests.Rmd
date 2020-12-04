@@ -1,7 +1,7 @@
 ---
 title: " Article 2 : Climate change likely drove early human species to extinction, modeling study suggests"
 description: |
-  Of the six or more different species of early humans, all belonging to the genus Homo, only we Homo sapiens have managed to survive. Now, a study combining climate modeling and the fossil record in search of clues to what led to all those earlier extinctions suggests that climate change -- the inability to adapt to either warming or cooling temperatures -- likely played a major role in sealing their fate.
+  6 species of the genus Homo have survived but only one species, Homo sapiens, has survived climate change, the other species have not been able to adapt and have therefore disappeared.
 author:
   - name: Perrine Clynckemaillie
     url: {}

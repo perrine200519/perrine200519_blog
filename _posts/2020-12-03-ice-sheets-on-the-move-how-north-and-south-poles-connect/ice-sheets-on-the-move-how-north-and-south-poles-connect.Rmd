@@ -1,7 +1,7 @@
 ---
 title: "Article 4 : Ice sheets on the move: How north and south poles connect"
 description: | 
-  Over the past 40,000 years, ice sheets thousands of kilometers apart have influenced one another through sea level changes, according to new research. New modelling of ice sheet changes during the most recent glacial cycle demonstrates, for the first time, that during this period, changes in the Antarctic ice sheet were driven by the melting ice sheets in the Northern Hemisphere.
+  the ice caps present in the 2 poles are influenced by changes in the sea level. this influence therefore helps to regulate the climate on earth, but global warming plays a role in this regulation, leading to the melting of the ice caps and therefore the rise in water levels. 
 author:
   - name: Perrine Clynckemaillie
     url: {}
