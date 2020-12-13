@@ -32,23 +32,52 @@ word count: 502 words
 
 ## Vocabulary
 
-| word from the text | synonym/definition in English                                                                                                                                                                                                                                                                           | French translation |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| species            | any of the taxonomic groups into which a genus is divided,  the members of which are capable of interbreeding: often  containing subspecies, varieties, or races.  A species is designated in italics by the genus name followed  by the specific name, for example Felis domesticus (the domestic cat) | espèces            |
-| climate            | the long-term prevalent weather conditions of an area,  determined by latitude, position relative to oceans or continents, altitude, etc.                                                                                                                                                               | climat             |
-| fossil             | a relic, remnant, or representation of a plant or animal that existed  in a past geological age, occurring in the form of mineralized  bones, shells, etc., as casts, impressions, and moulds, and as  frozen perfectly preserved organisms                                                             | fossile            |
-| innovations        | something newly introduced, such as a new method or device                                                                                                                                                                                                                                              | innovations        |
-| stone              | the hard compact nonmetallic material of which rocks are made                                                                                                                                                                                                                                           | pierre             |
-| spear              | a weapon consisting of a long shaft with a sharp pointed  end of metal, stone, or wood that may be thrown or thrust                                                                                                                                                                                     | lance              |
-| niche              | a position particularly suitable for the person occupying it                                                                                                                                                                                                                                            | niche              |
+| word from the text      | synonym/definition in English                                                                                                                                                                                                                                                               | French translation       |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| flowering               | (of certain species of plants) capable of producing conspicuous flowers                                                                                                                                                                                                                     | floraison                |
+| Ecosystem               | a system involving the interactions between a community and its  non-living environment                                                                                                                                                                                                     | écosystème               |
+| Global warming          | an increase in the average temperature worldwide believed to be caused by the greenhouse effect                                                                                                                                                                                             | réchauffement climatique |
+| insect                  | any small air-breathing arthropod of the class Insecta, having a body divided into head, thorax, and abdomen, three pairs of legs, and (in most species) two pairs of wings. Insects comprise about five sixths of all known animal species, with a total of over one million named species | insecte                  |
+| biomass                 | the total number of living organisms in a given area, expressed in terms of living or dry weight per unit area                                                                                                                                                                              | biomasse                 |
+| biodiversity            | the existence of a wide variety of plant and animal species in their natural environments, which is the aim of conservationists concerned about the indiscriminate destruction of rainforests and other habitats                                                                            | biodiversité             |
+| plant                   | any living organism that typically synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion                                  | plante                   |
+| invertebrate            | any animal lacking a backbone, including all species not classified as vertebrates                                                                                                                                                                                                          | invertébré               |
+| declines                | to grow smaller; diminish                                                                                                                                                                                                                                                                   | diminution               |
+| occurence               | something that occurs; a happening; event                                                                                                                                                                                                                                                   | phénomène                |
+| behaviour               | manner of behaving or conducting oneself                                                                                                                                                                                                                                                    | comportement             |
+| nectar                  | a sugary fluid produced in the nectaries of flowers and collected by bees and other insects                                                                                                                                                                                                 | nectar                   |
+| cooperation             | joint operation or action                                                                                                                                                                                                                                                                   | coopération              |
+| artificial              | produced by man; not occurring naturally                                                                                                                                                                                                                                                    | artificiels              |
+| flowered                | to produce flowers; bloom                                                                                                                                                                                                                                                                   | fleurissent (fleurir)    |
+| infested                | When creatures such as insects or rats infest plants or a place, they are present in large numbers and cause damage                                                                                                                                                                         | infestées (infester)     |
+| pollination (pollinate) | to transfer pollen from the anthers to the stigma of (a flower)                                                                                                                                                                                                                             | pollinisation            |
+
 
 
 ## Analysis 
 
-| Researchers?                        | Josephine Ulrich, Solveig Franziska Bucher, Nico Eisenhauer, Anja Schmidt, Manfred Türke, Alban Gebler, Kathryn Barry, Markus Lange, Christine Römermann |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| published in ? when (if mentioned)? | it was published in Dayliscience on October 26, 2020                                                                                                     |
-| general topic                       | the effect of global warming and land-use change on flowers and insects                                                                                  |
-| procedure/what was examined         | climate change has an adverse effect on flowering ant therefore on insects                                                                               |
-| conlusions/discovery                | climate change and changes in land use are causing a mismatch between animals and plants, which leads to serious consequences for the ecosystem.         |
-| remainig question                   | /                                                                                                                                                        |
+### Researchers?
+
+*  Josephine Ulrich, Solveig Franziska Bucher, Nico Eisenhauer, Anja Schmidt, Manfred Türke, Alban Gebler, Kathryn Barry, Markus Lange, Christine Römermann
+
+### published in ? when (if mentioned)?
+
+*  published in Dayliscience
+*  October 26, 2020
+
+### general topic
+
+*  the effect of global warming change on flowers and insects
+*  negative effect of global warming
+
+### procedure/what was examined
+
+*  effect on flowering ant therefore on insects
+
+### conlusions/discovery
+
+*  Climate change = causing a mismatch between animals and plants
+*  serious consequences for the ecosystem
+
+### remainig question : /
+

@@ -10,7 +10,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -31,23 +30,47 @@ word count: 511 words
 
 ## Vocabulary
 
-| word from the text | synonym/definition in English                                                                                                                                                                                                                                                                           | French translation |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| species            | any of the taxonomic groups into which a genus is divided,  the members of which are capable of interbreeding: often  containing subspecies, varieties, or races.  A species is designated in italics by the genus name followed  by the specific name, for example Felis domesticus (the domestic cat) | espèces            |
-| climate            | the long-term prevalent weather conditions of an area,  determined by latitude, position relative to oceans or continents, altitude, etc.                                                                                                                                                               | climat             |
-| fossil             | a relic, remnant, or representation of a plant or animal that existed  in a past geological age, occurring in the form of mineralized  bones, shells, etc., as casts, impressions, and moulds, and as  frozen perfectly preserved organisms                                                             | fossile            |
-| innovations        | something newly introduced, such as a new method or device                                                                                                                                                                                                                                              | innovations        |
-| stone              | the hard compact nonmetallic material of which rocks are made                                                                                                                                                                                                                                           | pierre             |
-| spear              | a weapon consisting of a long shaft with a sharp pointed  end of metal, stone, or wood that may be thrown or thrust                                                                                                                                                                                     | lance              |
-| niche              | a position particularly suitable for the person occupying it                                                                                                                                                                                                                                            | niche              |
-
+| word from the text           | synonym/definition in English                                                                                                                                                                                                                                                                          | French translation          |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Species                      | any of the taxonomic groups into which a genus is divided, the members of  which are capable of interbreeding: often containing subspecies, varieties, or races.  A species is designated in italics by the genus name followed by the specific name,  for example Felis domesticus (the domestic cat) | espèces                     |
+| Climate                      | the long-term prevalent weather conditions of an area, determined by latitude,  position relative to oceans or continents, altitude, etc.                                                                                                                                                              | climat                      |
+| Fossil                       | a relic, remnant, or representation of a plant or animal that existed in a  past geological age, occurring in the form of mineralized bones, shells, etc.,  as casts, impressions, and moulds, and as frozen perfectly preserved organisms                                                             | fossile                     |
+| innovations                  | something newly introduced, such as a new method or device                                                                                                                                                                                                                                             | innovations                 |
+| stone                        | the hard compact nonmetallic material of which rocks are made                                                                                                                                                                                                                                          | pierre                      |
+| spear                        | a weapon consisting of a long shaft with a sharp pointed end of metal,  stone, or wood that may be thrown or thrust                                                                                                                                                                                    | lance                       |
+| niche                        | a position particularly suitable for the person occupying it                                                                                                                                                                                                                                           | niche                       |
+| Genus                        | any of the taxonomic groups into which a family is divided and which contains one or more species. For example, Vulpes (foxes) is a genus of the dog family (Canidae)                                                                                                                                  | genre                       |
+| To survive                   | to continue in existence or use after (a passage of time, an adversity, etc.)                                                                                                                                                                                                                          | survivre                    |
+| Ancestors                    | an early type of animal or plant from which a later, usually dissimilar, type has evolved                                                                                                                                                                                                              | ancêtres                    |
+| Archaeological (archaeology) | / archaeology : the study of man's past by scientific analysis of the material remains of his cultures                                                                                                                                                                                                 | archéologique (archéologie) |
+| Preferences                  | the act of preferring                                                                                                                                                                                                                                                                                  | préférences                 |
+| Unfavorable                  | not favourable; adverse or inauspicious                                                                                                                                                                                                                                                                | défavorable                 |
+| (By) competition             | the act of competing; rivalry                                                                                                                                                                                                                                                                          | concurrence                 |
+| Extinctions                  | the act of extinguishing or the state of being extinguished                                                                                                                                                                                                                                            | extinctions                 |
 
 ## Analysis 
 
-| Researchers?                        | Pasquale Raia from Federico II University, Naples, Italy, Alessandro Mondanaro, Marina Melchionna, Mirko Di Febbraro, Josè A.F. Diniz-Filho, Thiago F. Rangel, Philip B. Holden, Francesco Carotenuto, Neil R. Edwards, Matheus S. Lima-Ribeiro, Antonio Profico, Luigi Maiorano, Silvia Castiglione, Carmela Serio and Lorenzo Rook |
-|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| published in ? when (if mentioned)? | it was published in Dayliscience on October 15, 2020                                                                                                                                                                                                                                                                                 |
-| general topic                       | the effect of global warming on our different ancestors of the Homo genus                                                                                                                                                                                                                                                            |
-| procedure/what was examined         | they looked at the disappearance causes of the different types of Homos                                                                                                                                                                                                                                                              |
-| conlusions/discovery                | if no effort is made to save the planet and to reduce global warming, the climate crisis could lead to the extinction of Homo sapiens. Climate crises appeared indeed to have played a role in the extinction of H. erectus, H. heidelbergensis, and H. neanderthalensis.                                                            |
-| remainig question                   | /                                                                                                                                                                                                                                                                                                                                    |
+### Researchers?
+
+*  Pasquale Raia from Federico II University, Naples, Italy, Alessandro Mondanaro, Marina Melchionna, Mirko Di Febbraro, Josè A.F. Diniz-Filho, Thiago F. Rangel, Philip B. Holden, Francesco Carotenuto, Neil R. Edwards, Matheus S. Lima-Ribeiro, Antonio Profico, Luigi Maiorano, Silvia Castiglione, Carmela Serio and Lorenzo Rook
+
+### published in ? when (if mentioned)?
+
+*  published in Dayliscience
+*  on October 15, 2020
+
+### published in ? when (if mentioned)?
+
+*  	the effect of global warming on our different ancestors of the Homo genus
+
+### procedure/what was examined
+
+*  looked at the disappearance causes of the different types of Homos
+
+### conlusions/discovery
+
+*  If no efforts = Possible extinction of Homo sapiens
+*  Climate crises has played a role in the extinction of other Homo
+
+### remainig question : /
+
