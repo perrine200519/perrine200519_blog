@@ -1,0 +1,48 @@
+---
+title: "Article 5 :Arctic permafrost releases more CO2 than once
+believed"
+description: |
+  A short description of the post.
+author:
+  - name: Perrine Clynckemaillie
+    url: {}
+date: 03-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+[source of the article](:	https://www.sciencedaily.com/releases/2021/02/210209113807.htm)
+
+date of the publication: February 9, 2021
+  
+word count: 652 words
+
+## Vocabulary
+
+
+### Researchers?
+
+Monique S. Patzner, Carsten W. Mueller, Miroslava Malusova, Moritz Baur, Verena Nikeleit, Thomas Scholten, Carmen Hoeschen, James M. Byrne, Thomas Borch, Andreas Kappler, Casey Bryce
+
+### Published	in? when (if mentioned)?
+
+  - In	dailyscience
+  - Published	on February 9, 2021
+  
+### General	topic :
+
+  - Topic	around CO2, iron and	permafrost
+  
+### Procedure/what was examined :
+	
+  - bacteria neutralise	the	carbon capacity -> release	of	large	amounts of CO2
+  - when the ice melts, the water becomes water -> Oxygen level decreases	and	Iron becomes unstable
+
+### Conclusions/	discovery :
+/
