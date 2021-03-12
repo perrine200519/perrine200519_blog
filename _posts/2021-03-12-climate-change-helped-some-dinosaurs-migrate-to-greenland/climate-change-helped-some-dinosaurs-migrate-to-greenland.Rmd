@@ -1,0 +1,82 @@
+---
+title: "article 6 : Climate change helped some dinosaurs
+migrate to Greenland"
+description: |
+  A short description of the post.
+author:
+  - name: Perrine Clynckemaillie
+    url: {}
+date: 03-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Source of the article
+[source of the article](https://www.sciencenews.org/article/climate-change-carbon-dioxide-dinosaur-migration-greenland)
+
+date of the publication: February 24, 2021
+  
+word count: 718 words
+
+## Vocabulary
+
+| word from the text       | synonym/definition in English                                                                                                                     | French translation   |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| once-forbidding          |                                                                                                                                                   |                      |
+| pinpointed( to pinpoint) | to locate or identify exactly                                                                                                                     | identifier           |
+| layers                   | ona thickness of some homogeneous substance, such as a stratum or a coating on a surface                                                          | couche               |
+| field                    | a field of force equivalent to an electric field and a magnetic field at right angles to each other and to the direction of propagation           | champ                |
+| timeline                 | timely : at the right or an opportune or appropriate time                                                                                         | chronologie          |
+| northward                | moving, facing, or situated towards the north                                                                                                     | vers le nord         |
+| long-necked              | neck : the part of an organism connecting the head with the rest of the body long : having relatively great extent in space on a horizontal plane | long cou             |
+| mainly                   | for the most part; to the greatest extent; principally                                                                                            | principalement       |
+| picked up (to pick up)   | to acquire, obtain, or purchase casually, incidentally, etc.                                                                                      | ramasser             |
+| smooshed (to smoosh)     | kiss and cuddle                                                                                                                                   | embrasser            |
+| pace                     | speed of movement, esp. of walking or running                                                                                                     | rythme               |
+| stretching (to stretch)  | draw out or extend or be drawn out or extended in length, area, etc.                                                                              | s'étendre            |
+| showed up (to show up)   | reveal or be revealed clearly                                                                                                                     | apparus (apparaitre) |
+| plummeted (to plummet)   | to drop down; plunge                                                                                                                              | chuter               |
+| drop                     | the act or an instance of falling; descent                                                                                                        | baisse               |
+| allowed (to allow)       | to permit (to do something); let                                                                                                                  | permettre            |
+| findings                 | a thing that is found or discovered                                                                                                               | découvertes          |
+| roamed (to roam)         | to travel or walk about with no fixed purpose or direction; wander                                                                                | se déplacer          |
+| kept (to keep)           | to have or retain possession of                                                                                                                   | garder               |
+| whims                    | a sudden, passing, and often fanciful idea; impulsive or irrational thought                                                                       | caprices             |
+
+## Analysis
+### Researchers?
+
+Anushree Dave
+
+### Published	in? when (if mentioned)?
+
+  - In ScienceNews	
+  - Published	on February 24, 2021
+  
+### General	topic :
+
+  - northward migration of sauropodomorphs
+  - Variation in CO2 levels -> consequences
+
+### Procedure/what was examined :
+	
+  - Easy migration in terms of space -> only one continent, Pangea
+  - Difficult migration because of high CO2 levels of 4000ppm (parts per million) -> desert creation and climate fluctuation -> little food for sauropodomorphs -> 
+  - Decrease in CO2 -> migration to the north
+  - Lower CO2 -> removal of climate-related barriers 
+  - Reason for this decline? Unknown
+
+### Conclusions/	discovery :
+
+  - Lower CO2 -> favours herbivores -> food for sauropodomorphs
+  - That climate change must be understood in order to understand the evolution 
+  - Climate change is the cause of some disappearances
+
+### remaining questions
+
+  - what is the reason for this drop in CO2 levels ? 
+

@@ -7,6 +7,8 @@ listing:
     - 2020-11-01-climate-change-likely-drove-early-human-species-to-extinction-modeling-study-suggests
     - 2020-11-01-shifts-in-flowering-phases-of-plants-due-to-reduced-insect-density
     - 2020-12-03-ice-sheets-on-the-move-how-north-and-south-poles-connect
+    - 2021-03-12-arctic-permafrost-releases-more-co2-than-once-believed
+    - 2021-03-12-climate-change-helped-some-dinosaurs-migrate-to-greenland
 ---
 
 ```{r, echo = FALSE, eval = FALSE}

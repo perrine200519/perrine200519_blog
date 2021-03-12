@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Source of the article
-[source of the article](:	https://www.sciencedaily.com/releases/2021/02/210209113807.htm)
+[source of the article](	https://www.sciencedaily.com/releases/2021/02/210209113807.htm)
 
 date of the publication: February 9, 2021
   
@@ -44,6 +44,7 @@ word count: 652 words
 | whether            | used to introduce an indirect question or a clause after a verb expressing or  implying doubt or choice in order to indicate two or more alternatives, the second  or last of which is introduced by or or or whether                                                                                                                                                        | si                   |
 | countlesse         | innumerable; myriad                                                                                                                                                                                                                                                                                                                                                          | d'innombrables       |
 
+## Analysis
 ### Researchers?
 
 Monique S. Patzner, Carsten W. Mueller, Miroslava Malusova, Moritz Baur, Verena Nikeleit, Thomas Scholten, Carmen Hoeschen, James M. Byrne, Thomas Borch, Andreas Kappler, Casey Bryce
@@ -63,4 +64,9 @@ Monique S. Patzner, Carsten W. Mueller, Miroslava Malusova, Moritz Baur, Verena 
   - when the ice melts, the water becomes water -> Oxygen level decreases	and	Iron becomes unstable
 
 ### Conclusions/	discovery :
+
+  - microorganisms: play a key role in climate change
+  -large amount of CO2 emitted and greenhouse gases :needs to be studied -> climate change
+
+### remaining questions
 /
