@@ -1,0 +1,85 @@
+---
+title: " Article 7: Climate change: Carbon emission promises 'put Earth on red alert'"
+description: |
+  A short description of the post.
+author:
+  - name: Perrine Clynckemaillie
+    url: {}
+date: 03-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Source of the article
+[source of the article](https://www.bbc.com/news/science-environment-56208651)
+
+date of the publication: February 26, 2021
+  
+word count: 725 words
+
+## Vocabulary
+
+| word from the text | synonym/definition in English                                                                 | French translation |
+|--------------------|-----------------------------------------------------------------------------------------------|--------------------|
+| tougher (tough)    | difficult or troublesome to do or deal with                                                   | plus difficile     |
+| intend             | to propose or plan (something or to do something); have in mind; mean                         | destiner           |
+| threshold          | a sill                                                                                        | limite             |
+| merely             | being nothing more than something specified                                                   | simplement         |
+| nowhere            | in, at, or to no place; not anywhere                                                          | nulle part         |
+| needed             | called for, desired, lacked, necessary, required, wanted                                      | nécessaire         |
+| flowing (to flow)  | (of liquids) to move or be conveyed as in a stream                                            | s'écouler          |
+| aims               | the object at which something is aimed; target                                                | ambitions          |
+| overseen           |  to watch over and direct; supervise                                                          | supervisé          |
+| reveal             | to expose to view or show (something concealed)                                               | révéler            |
+| rivalry            | the act of rivalling; competition                                                             | rivalité           |
+| stung (to sting)   | to goad or incite (esp. in the phrase sting into action                                       | piquer             |
+| poverty            | the condition of being without adequate food, money, etc                                      | pauvreté           |
+| coal               | a compact black or dark-brown carbonaceous rock consisting of layers of partially decomposed  | charbon            |
+| dug (to dig)       | to cut into, break up, and turn over or remove (earth, soil, etc.)                            | creuser            |
+| advisors           | a person who advises                                                                          | conseillers        |
+| launch             | to start off or set in motion                                                                 | lancer             |
+| desperately        | appallingly, fearfully, frightfully, hopelessly, shockingly                                   | désespérément      |
+| pledges            | a formal or solemn promise or agreement, esp. to do or refrain from doing something           | promesses          |
+| shocking           | causing shock, horror, or disgust                                                             | choquante          |
+| genuine            |  not fake or counterfeit; original; real; authentic                                           | véritable          |
+
+## Analysis
+### Researchers?
+
+Roger Harrabin
+
+### Published	in? when (if mentioned)?
+
+  - In BBC Science	
+  - Published	on February 26, 2021
+  
+### General	topic :
+
+  - some countries' decisions on climate change
+
+### Procedure/what was examined :
+	
+  - Emissions will be stabilised by 2030.
+  - Governments far from having an ambition to limit climate change -> intensify efforts to limit climate change to 1.5°C 
+  - Biden -> joins the Paris Agreement 
+  - Chancellor -> use of the budget -> greener finances
+  - Glaciers are collapsing faster   
+  - Some countries do not have a climate plan 
+  - United Kingdom -> "Net Zero" objective
+  - China and Japan -> rivalry for "Net Zero".
+  - India -> think about a goal 
+  - Germany -> contradictory -> opening of a coal-fired power station   - United Kingdom -> renewable energies -> imposes the non-sale of petrol or diesel cars after 2030
+
+### Conclusions/	discovery :
+
+  - Countries must put their money where their mouth is 
+  - Immediate action is needed -> transformation 
+  - There is progress on climate change -> slow
+
+
+### remaining questions
+/
