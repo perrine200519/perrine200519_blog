@@ -1,6 +1,5 @@
 ---
-title: "Article 5 :Arctic permafrost releases more CO2 than once
-believed"
+title: "Article 5 : Artic permafrost releases more CO2 than once believed"
 description: |
   A short description of the post.
 author:
@@ -66,7 +65,7 @@ Monique S. Patzner, Carsten W. Mueller, Miroslava Malusova, Moritz Baur, Verena 
 ### Conclusions/	discovery :
 
   - microorganisms: play a key role in climate change
-  -large amount of CO2 emitted and greenhouse gases :needs to be studied -> climate change
+  - large amount of CO2 emitted and greenhouse gases :needs to be studied -> climate change
 
 ### remaining questions
 /
